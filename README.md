@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="#">
-    <img src="/icons/on.png" alt="Logo" width="80" height="80">
-  </a>
-
+  <img src="/icons/on.png" alt="Logo" width="80" height="80">
   <h3 align="center">Happydia</h3>
 
   <p align="center">
