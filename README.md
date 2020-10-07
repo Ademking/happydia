@@ -12,6 +12,6 @@
 
 ## How to install:
 
-* Google Chrome: [Still not Published yet](https://github.com/Ademking/happydia)
+* Google Chrome: [Click here](https://github.com/Ademking/happydia)
 * Firefox: [Click here](https://addons.mozilla.org/en-US/firefox/addon/happydia/)
-* Microsoft Edge [Still not Published yet](https://github.com/Ademking/happydia)
+* Microsoft Edge [Click here](https://github.com/Ademking/happydia)
