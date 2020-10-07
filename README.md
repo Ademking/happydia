@@ -9,3 +9,9 @@
   <p align="center"><img src="/demo.gif" alt="Demo"></p>
   
 </p>
+
+## How to install:
+
+* Google Chrome [Click here](https://github.com/Ademking/happydia)
+* Firefox: [Click here](https://addons.mozilla.org/en-US/firefox/addon/happydia/)
+* Microsoft Edge [Click here](https://github.com/Ademking/happydia)
