@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#>
+  <a href="#">
     <img src="/icons/on.png" alt="Logo" width="80" height="80">
   </a>
 
