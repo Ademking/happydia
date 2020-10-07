@@ -5,4 +5,7 @@
   <p align="center">
     A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.
   </p>
+  <br />
+  <p align="center"><img src="/demo.gif" alt="Demo"></p>
+  
 </p>
