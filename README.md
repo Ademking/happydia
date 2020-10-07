@@ -22,17 +22,21 @@ Q: What is Happydia?
 
 A: Happydia (Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.
 
+
 Q: How does this browser extension works?
 
 A: While your webpage is loading, Happydia looks at the site and compares them against a list of banned words ( Sad / Politics / Depressing ... ) it was built to block. If it finds any, it blocks them.
+
 
 Q: Where do the blocking and hiding filters come from?
 
 A: Happydia, like all ad blockers, relies on filter rules to know what to block and hide on the web pages you visit. You can check the list of filtred words in our Github repository. (Inside "data/" folder)
 
+
 Q: I sometimes want Happydia to be disabled. How can I do this most easily?
 
 A: You can click the Happydia icon in the toolbar to bring up the menu. There you have the option to disable/reenable Happydia by simply clicking the related slider and then refresh the page.
+ 
  
 Q: How can i support Happydia?
 
