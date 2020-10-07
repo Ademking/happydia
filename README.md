@@ -7,7 +7,10 @@
   </p>
   <br />
   <p align="center"><img src="/demo.gif" alt="Demo"></p>
-  
+  <br />
+  <p align="center">
+    <a href="https://www.producthunt.com/posts/happydia?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-happydia" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=269850&theme=light" alt="Happydia - Make your Social Media a happier place | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+  </p>
 </p>
 
 ## How to install:
