@@ -37,14 +37,15 @@ __A:__ Happydia, like all ad blockers, relies on filter rules to know what to bl
 
 __A:__ You can click the Happydia icon in the toolbar to bring up the menu. There you have the option to disable/reenable Happydia by simply clicking the related slider and then refresh the page.
  
- 
-__Q: How can i support Happydia?__
+## How to contribute
 
-__A:__ I love making Happydia and i'm happy to let you use it for free! And i want to be perfectly clear about this: Happydia is free. It is fully functional whether you pay for it or not. You can install it as often as you want on as many computers as you want whether you pay for it or not. However, if you would like to support my effort, here are a few different ways for you to do so.
-• Donating :
+I love making Happydia and i'm happy to let you use it for free! And i want to be perfectly clear about this: Happydia is free. It is fully functional whether you pay for it or not. You can install it as often as you want on as many computers as you want whether you pay for it or not. However, if you would like to support my effort, here are a few different ways for you to do so.
+
+* Donating :
 Donating to Happydia is obviously the most direct way to help maintain Happydia's development!
-• Spread the word :
-If you can't or don't want to donate, you can support us by spreading the word about Happydia!
-• Translate Happydia :
-If you know more than one language, you can also help us translate Happydia!
 
+* Spread the word :
+If you can't or don't want to donate, you can support us by spreading the word about Happydia!
+
+* Translate Happydia :
+If you know more than one language, you can also help us translate Happydia!
