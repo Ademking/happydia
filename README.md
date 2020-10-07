@@ -13,6 +13,7 @@
   </p>
 </p>
 
+
 ## How to install:
 
 * Google Chrome: [Click here](https://chrome.google.com/webstore/detail/happydia/eppbnnfjppbiockeliifocniohcpnhlm)
@@ -20,6 +21,8 @@
 * Microsoft Edge [Click here](https://github.com/Ademking/happydia)
 
 ## FAQs
+
+__[Read more](https://dev.to/ademking/how-i-protect-my-mental-health-from-social-media-s-danger-using-this-browser-extension-5f8k)__
 
 __Q: What is Happydia?__
 
