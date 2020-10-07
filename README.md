@@ -42,7 +42,7 @@ __A:__ You can click the Happydia icon in the toolbar to bring up the menu. Ther
 I love making Happydia and i'm happy to let you use it for free! And i want to be perfectly clear about this: Happydia is free. It is fully functional whether you pay for it or not. You can install it as often as you want on as many computers as you want whether you pay for it or not. However, if you would like to support my effort, here are a few different ways for you to do so.
 
 * Donating :
-Donating to Happydia is obviously the most direct way to help maintain Happydia's development!
+Donating to Happydia is obviously the most direct way to help maintain Happydia's development! [Click here to Donate](https://www.paypal.me/Ademkouki)
 
 * Spread the word :
 If you can't or don't want to donate, you can support us by spreading the word about Happydia!
