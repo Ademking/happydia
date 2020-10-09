@@ -18,7 +18,7 @@
 
 * Google Chrome: [Click here](https://chrome.google.com/webstore/detail/happydia/eppbnnfjppbiockeliifocniohcpnhlm)
 * Firefox: [Click here](https://addons.mozilla.org/en-US/firefox/addon/happydia/)
-* Microsoft Edge [Click here](https://github.com/Ademking/happydia)
+* Microsoft Edge [Click here](https://microsoftedge.microsoft.com/addons/detail/happydia/knfbnfckkfmfipijgajpefpcimkfideb)
 
 ## FAQs
 
